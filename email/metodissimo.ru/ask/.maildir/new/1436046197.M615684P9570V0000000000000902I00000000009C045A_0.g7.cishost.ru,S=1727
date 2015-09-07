@@ -1,0 +1,38 @@
+From supermozhaytseva@yandex.ru Sun Jul 05 00:43:17 2015
+Return-path: <supermozhaytseva@yandex.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Sun, 05 Jul 2015 00:43:17 +0300
+Authentication-Results: dkim=pass, header.i=@yandex.ru
+Received: from forward11h.cmail.yandex.net ([2a02:6b8:0:f35::9c])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <supermozhaytseva@yandex.ru>)
+	id 1ZBVDR-0002Ty-0R
+	for ask@metodissimo.ru; Sun, 05 Jul 2015 00:43:17 +0300
+Received: from web18j.yandex.ru (web18j.yandex.ru [5.45.198.59])
+	by forward11h.cmail.yandex.net (Yandex) with ESMTP id 5B97B21D3F
+	for <ask@metodissimo.ru>; Sun,  5 Jul 2015 00:43:15 +0300 (MSK)
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by web18j.yandex.ru (Yandex) with ESMTP id F2233424028C;
+	Sun,  5 Jul 2015 00:43:14 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail;
+	t=1436046195; bh=xTJJC4bpYlg2qIw9ABFUWYL2zTT96twqUWAK+wjbW2E=;
+	h=From:To:Subject:Date;
+	b=OuSNS+q38q1br/gXvSa2sjsO1HvOW2W9Dj8WcEjF6Z4jJtN1v0if6cuGMdkH7z3++
+	 zgJz+533yBRh+RJcNnnISsEUyesE6RxeqUNgf4z+aCiQMEjkOHsULXsEDWlACBmPRw
+	 EYxbh+yi7xLFKqn4IvDlmEARh/vozD4DOECnf5wE=
+Received: by web18j.yandex.ru with HTTP;
+	Sun, 05 Jul 2015 00:43:14 +0300
+From: Olga Mozhaytseva <profi-ter@yandex.ru>
+Envelope-From: supermozhaytseva@yandex.ru
+To: =?koi8-r?B?78zYx8E=?= <ask@metodissimo.ru>
+Subject: ffdf
+MIME-Version: 1.0
+Message-Id: <3248231436046194@web18j.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Sun, 05 Jul 2015 00:43:14 +0300
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=koi8-r
+
+<div>sd</div><div> </div><div>-- </div><div>С уважением,</div><div>Ольга</div><div> </div>
+

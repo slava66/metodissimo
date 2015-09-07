@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/metodissimo.ru/webstat"
+AuthUserFile /var/www/user53536/data/etc/10224664.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

@@ -1,0 +1,61 @@
+From online@dorados.ru Tue Jul 07 00:00:42 2015
+Return-path: <online@dorados.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Tue, 07 Jul 2015 00:00:42 +0300
+Authentication-Results: dkim=pass, header.i=@dorados.ru
+Received: from forward22h.cmail.yandex.net ([2a02:6b8:0:f35::36])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <online@dorados.ru>)
+	id 1ZCDVJ-0002zz-U6
+	for ask@metodissimo.ru; Tue, 07 Jul 2015 00:00:42 +0300
+Received: from smtp2h.mail.yandex.net (smtp2h.mail.yandex.net [84.201.187.145])
+	by forward22h.cmail.yandex.net (Yandex) with ESMTP id 81FD280514
+	for <ask@metodissimo.ru>; Tue,  7 Jul 2015 00:00:37 +0300 (MSK)
+Received: from smtp2h.mail.yandex.net (localhost [127.0.0.1])
+	by smtp2h.mail.yandex.net (Yandex) with ESMTP id 5598D1709CC9
+	for <ask@metodissimo.ru>; Tue,  7 Jul 2015 00:00:37 +0300 (MSK)
+Received: from unknown (unknown [2001:41d0:52:900::7b2])
+	by smtp2h.mail.yandex.net (nwsmtp/Yandex) with ESMTPSA id tKPIChR9Mj-0ammFx97;
+	Tue,  7 Jul 2015 00:00:36 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dorados.ru; s=mail; t=1436216436;
+	bh=ORFEW6oyHTF1zdDkHznKjgKa1AOg8TYfCNFwhdavycE=;
+	h=Date:To:From:Subject:Message-ID:X-Priority:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=BZE5nATx2fOmXJPNoEVU87zSblC3JFcfW7vtL0mn4V/INscoYS5kkNpyNYc7l7YvS
+	 c4Abe4PdALSyzYlY8HFu7/ycEzcbw9pu+5gKBdwkFAVsn0lMHCdVhJB7Le9S2UJI7r
+	 1uDxQ9i0aJC4zcXEPsx+jNhZ9rr4Gb0DBuKtFtbI=
+Authentication-Results: smtp2h.mail.yandex.net; dkim=pass header.i=@dorados.ru
+Date: Tue, 7 Jul 2015 00:10:11 +0300
+To: ask@metodissimo.ru
+From: "Dorados.RU" <online@dorados.ru>
+Subject: =?UTF-8?B?0JfQsNC60LDQvdGH0LjQstCw0LXRgtGB0Y8g0YHRgNC+0Log0L/Rg9Cx0Ls=?=
+ =?UTF-8?B?0LjQutCw0YbQuNC4INCy0LDRiNC10LPQviDQvtCx0YrRj9Cy0LvQtdC90Lg=?=
+ =?UTF-8?B?0Y8g4oSWODI3MzI=?=
+Message-ID: <df2126ea5e5025c4e7616e7c170c7747@dorados.ru>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_df2126ea5e5025c4e7616e7c170c7747"
+Content-Transfer-Encoding: 8bit
+
+--b1_df2126ea5e5025c4e7616e7c170c7747
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Через 1 день заканчивается срок публикации вашего объявления "Репетитор английского в Зеленограде", вы можете продлить его в своем кабинете.
+
+
+--b1_df2126ea5e5025c4e7616e7c170c7747
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Через <strong>1 день</strong> заканчивается срок публикации вашего объявления "<a href="http://zelenograd.dorados.ru/search/uslugi/obrazovanie/inostrannye-yazyki/repetitor-anglijskogo-v-zelenograde-82732.html">Репетитор английского в Зеленограде</a>", вы можете продлить его в своем кабинете.
+
+
+
+--b1_df2126ea5e5025c4e7616e7c170c7747--
+
+

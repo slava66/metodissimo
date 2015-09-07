@@ -1,0 +1,129 @@
+From do-not-reply@ubu.ru Wed Jul 08 07:17:25 2015
+Return-path: <do-not-reply@ubu.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Wed, 08 Jul 2015 07:17:25 +0300
+Authentication-Results: dkim=pass, header.i=@ubu.ru
+Received: from server.ubu.ru ([178.218.217.36])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <do-not-reply@ubu.ru>)
+	id 1ZCgnP-0000au-A7
+	for ask@metodissimo.ru; Wed, 08 Jul 2015 07:17:24 +0300
+Received: from server.ubu.ru (localhost.localdomain [127.0.0.1])
+	by server.ubu.ru (8.14.4/8.14.4) with ESMTP id t684GEf3013959
+	for <ask@metodissimo.ru>; Wed, 8 Jul 2015 07:16:14 +0300
+X-DKIM: Sendmail DKIM Filter v2.8.3 server.ubu.ru t684GEf3013959
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=ubu.ru; s=default;
+	t=1436328974; bh=1vCfcecbPw0xQfIrKWrLUE8E52/6ZJgCivVwWcH88Rs=;
+	h=To:Subject:Date:From:Reply-to:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=oMt1xhr3LqeXL783ZontpnLUCCsUQx9lrqGaPDWgD5rupxPLfNKWOGt2cXiQJQpjn
+	 YoFWxB1DHyHRId8Q2bzLohzAVRmDNNa04zpg9dkNJi++I14L97+zkMuUPAAanXM/gw
+	 vqgtQl8MSuQqGZue1Sg3l7CoFJvv1PV4FKeQAiD0=
+Received: (from ubu@localhost)
+	by server.ubu.ru (8.14.4/8.14.4/Submit) id t684GECl013958;
+	Wed, 8 Jul 2015 07:16:14 +0300
+X-Authentication-Warning: server.ubu.ru: ubu set sender to do-not-reply@ubu.ru using -f
+To: ask@metodissimo.ru
+Subject: =?utf-8?B?0J/RgNC+0LTQu9C40YLQtSDQvtCx0YrRj9Cy0LvQtdC90LjQtSDQvdCwIDMw?=  =?utf-8?B?INC00L3QtdC5INCx0LXRgdC/0LvQsNGC0L3QviAtIFVCVS5ydQ==?=
+X-PHP-Originating-Script: 500:class.phpmailer.php
+Date: Wed, 8 Jul 2015 07:16:14 +0300
+From: "UBU.ru" <do-not-reply@ubu.ru>
+Reply-to: "UBU.ru" <do-not-reply@ubu.ru>
+Message-ID: <fa2702414095ba47d06b2d394c6b6a1f@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+X-Scanned-By: ClamAV 0.98.7; Wed, 08 Jul 2015 07:17:19 +0300
+X-Spam_score: 2.9
+X-Spam_score_int: 29
+X-Spam_bar: ++
+X-Spam_report: Spam detection software, running on the system "g7.cishost.ru", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  ﻿ Продлите объявление на 30 дней
+    дней бесплатно - UBU.ru Здравствуйте, Ольга!
+    [...] 
+ 
+ Content analysis details:   (2.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  2.4 DNS_FROM_AHBL_RHSBL    RBL: Envelope sender listed in dnsbl.ahbl.org
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.7 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ubu.ru]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01
+Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Продлите объявление
+на 30 дней дней бесплатно -
+UBU.ru</title>
+</head>
+<body>
+	
+	Здравствуйте, Ольга!<br /><br />
+    Ваше объявление
+Репетитор английского
+языка в Зеленограде было
+размещено на UBU.ru 08.06.2015. <br />
+    За 30 дней на сайте
+появилось много новых
+объявлений и ваше,
+вероятно, оказалось внизу
+списка. <br /><br />
+Уточка сегодня дарит вам
+БЕСПЛАТНЫЙ БОНУС:<br><br> 
+
+<b>Перейдите по ссылке:</b> <a
+href="http://ubu.ru/ads/mactivate?id=4699275&tcode=1436328974415">http://ubu.ru/ads/mactivate?id=4699275&tcode=1436328974415</a><br
+/><br /> 
+
+На сайте, Вы сможете
+поднять объявление в
+поиске и его дата обновится
+- оно окажется первым в
+списке!<br /><br />   
+
+
+Если Вам понравился наш
+сайт, хотим попросить
+уделить вас 3-5 минут своего
+времени и помочь нам стать
+еще популярнее - <a
+href="http://ubu.ru/helpdesk/kb/articles/27-view">узнайте
+как помочь уточке</a>.<br /> 
+    Узнайте полезные советы:
+<a
+href="http://www.ubu.ru/helpdesk/kb/articles/23-view">Бесплатные
+объявления или быстрые
+продажи за один день</a> <br
+/><br />
+   Вы можете также <a
+href="http://ubu.ru/ads/add?id=4699275&tcode=1436328974415">редактировать</a>
+объявление.<br />
+----------------------------<br />
+    <br />
+    Всегда онлайн, <br />
+    Утка UBU <br />
+    <a href="http://ubu.ru/">www.ubu.ru</a><br />
+
+</body>
+</html>
+
+

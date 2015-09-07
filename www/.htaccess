@@ -1,0 +1,38 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index.php\ HTTP/
+RewriteRule ^index.php$ http://metodissimo.ru/ [R=301,L]
+RewriteCond %{HTTP_HOST}  ^www\.(.+)$  [NC]
+RewriteRule ^(.*)         http://%1/$1 [L,R=301] 
+
+ErrorDocument 401 http://metodissimo.ru/404.html
+ErrorDocument 402 http://metodissimo.ru/404.html
+ErrorDocument 403 http://metodissimo.ru/404.html
+ErrorDocument 404 http://metodissimo.ru/404.html
+ErrorDocument 501 http://metodissimo.ru/404.html
+ErrorDocument 502 http://metodissimo.ru/404.html
+ErrorDocument 503 http://metodissimo.ru/404.html
+ErrorDocument 504 http://metodissimo.ru/404.html
+
+<ifmodule mod_headers.c>
+ <filesmatch ".(flv|gif|jpg|jpeg|png|ico|swf|pdf|ttf|woff)$">
+   Header set Cache-Control "max-age=2592000"
+ </filesmatch>
+ <filesmatch ".(css|jsx)$">
+   Header set Cache-Control "max-age=604800"
+ </filesmatch>
+</ifmodule>
+
+<ifModule mod_deflate.c>
+  <IfModule mod_filter.c>
+      AddOutputFilterByType DEFLATE text/plain text/html
+      AddOutputFilterByType DEFLATE text/css
+      AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+      AddOutputFilterByType DEFLATE text/xml application/xml application/xhtml+xml application/rss+xml
+      AddOutputFilterByType DEFLATE application/json
+      AddOutputFilterByType DEFLATE application/vnd.ms-fontobject application/x-font-ttf font/opentype image/svg+xml image/x-icon
+  </ifModule>
+</ifModule>
+
+# AddHandler application/x-httpd-php .php .html .htm .phtml
+# AddType application/x-httpd-php .php .html .htm .phtml

@@ -1,0 +1,45 @@
+<!--
+.backetaps1{
+	width:100%;
+	margin:0px auto;
+	display:block;
+}
+.betap1{
+	width:600px;
+	height:40px;
+	color:#215a72;
+	/* background:#5b9bd5; */
+	background:#ffffff;
+	margin:0px auto;
+	padding:10px 10px 10px 10px;
+	border:1px solid #215a72;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	display:block;
+}
+.tetap1{
+	font-family:arial,tahoma,verdana;
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;
+	display:block;
+}
+.ietap1{
+	width:25px;
+	height:25px;
+	background:url(../images/strela2.png) no-repeat;
+	margin:0px auto;
+	padding:0px;
+	display:block;
+}
+.se1{padding:12px 0px 0px 0px;}
+.se2{padding:4px 0px 0px 0px;}
+@media screen and (max-width:640px)
+{
+.backetaps1{width:100%;margin:0px auto;}
+.betap1{width:80%;height:auto;}
+.se1{padding:10px 10px 10px 10px;}
+.se2{padding:10px 10px 10px 10px;}
+}
+//-->

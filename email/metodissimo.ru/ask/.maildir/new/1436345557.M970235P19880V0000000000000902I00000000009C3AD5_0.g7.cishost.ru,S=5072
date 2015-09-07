@@ -1,0 +1,110 @@
+From do-not-reply@ubu.ru Wed Jul 08 11:52:37 2015
+Return-path: <do-not-reply@ubu.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Wed, 08 Jul 2015 11:52:37 +0300
+Authentication-Results: dkim=pass, header.i=@ubu.ru
+Received: from server.ubu.ru ([178.218.217.36])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <do-not-reply@ubu.ru>)
+	id 1ZCl5j-00059J-MW
+	for ask@metodissimo.ru; Wed, 08 Jul 2015 11:52:37 +0300
+Received: from server.ubu.ru (localhost.localdomain [127.0.0.1])
+	by server.ubu.ru (8.14.4/8.14.4) with ESMTP id t688pRMB005046
+	for <ask@metodissimo.ru>; Wed, 8 Jul 2015 11:51:27 +0300
+X-DKIM: Sendmail DKIM Filter v2.8.3 server.ubu.ru t688pRMB005046
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=ubu.ru; s=default;
+	t=1436345487; bh=aHFBu4/ymhpmWigj1KorVLW/7qZGdnkWNhuBa+E209o=;
+	h=To:Subject:Date:From:Reply-to:Message-ID:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=HgewzEETPIoZL6W29u6ll7y5x4cDGdNFJ/2nPEHO6QhYt7xzQyN6uU9Onj0VDfFKJ
+	 ZmIVbMt850F+4SKYt+jpb20QiK+rSx6AIRTAq0JE7Zrazgjfqdy4QJ6pZS7s2nGAhc
+	 GkkLAFgWICxE6kTBMRNZUEzYzIK8/JI98/59I88U=
+Received: (from apache@localhost)
+	by server.ubu.ru (8.14.4/8.14.4/Submit) id t688pRx6005043;
+	Wed, 8 Jul 2015 11:51:27 +0300
+To: =?utf-8?B?0J7Qu9GM0LPQsA==?= <ask@metodissimo.ru>
+Subject: =?utf-8?B?0JLQsNGI0LUg0L7QsdGK0Y/QstC70LXQvdC40LUg0L/QvtC00L3Rj9GC0L4g?=  =?utf-8?B?0L3QsCAxINC80LXRgdGC0L4h?=
+X-PHP-Originating-Script: 500:class.phpmailer.php
+Date: Wed, 8 Jul 2015 11:51:27 +0300
+From: "UBU.ru" <do-not-reply@ubu.ru>
+Reply-to: "UBU.ru" <do-not-reply@ubu.ru>
+Message-ID: <741bf06ca0ec344036034d75e9a7e8e2@www.ubu.ru>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+X-Scanned-By: ClamAV 0.98.7; Wed, 08 Jul 2015 11:52:31 +0300
+X-Spam_score: 2.9
+X-Spam_score_int: 29
+X-Spam_bar: ++
+X-Spam_report: Spam detection software, running on the system "g7.cishost.ru", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Ваше объявление поднято на 1 место!
+    Здравствуйте, Ольга! Сегодня ваше объявление
+    � епетитор английского языка в Зеленограде
+    было поднято в списке на 1 место, а дата объявления
+    обновлена на 08.07.2015 11:51. Через месяц вам снова
+    будет предложено поднять объявление бесплатно
+    или купить пакет из еженедельных 4 или 12
+   автоподнятий. Перейти к объявлению и комментариям.
+    [...] 
+ 
+ Content analysis details:   (2.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  2.4 DNS_FROM_AHBL_RHSBL    RBL: Envelope sender listed in dnsbl.ahbl.org
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.7 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ubu.ru]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01
+Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Ваше объявление
+поднято на 1 место!</title>
+</head>
+<body>
+    Здравствуйте, Ольга!<br /><br
+/>
+    Сегодня ваше объявление
+<a
+href="http://ubu.ru/zelenograd/uslugi/repetitor_angliyskogo_yazyka_v_zelenograde_4699275">Репетитор
+английского языка в
+Зеленограде</a> было поднято
+в списке на 1 место, а дата
+объявления обновлена на
+08.07.2015 11:51.<br/>
+    Через месяц вам снова
+будет предложено поднять
+объявление бесплатно или
+купить пакет из
+еженедельных 4 или 12
+автоподнятий.<br/>
+    <a
+href="http://ubu.ru/zelenograd/uslugi/repetitor_angliyskogo_yazyka_v_zelenograde_4699275">Перейти
+к объявлению и
+комментариям.</a><br/>
+    <br />
+    Всегда онлайн,<br />
+    Утка UBU<br />
+    <a href="http://ubu.ru/">www.ubu.ru</a><br />
+</body>
+</html>
+
+

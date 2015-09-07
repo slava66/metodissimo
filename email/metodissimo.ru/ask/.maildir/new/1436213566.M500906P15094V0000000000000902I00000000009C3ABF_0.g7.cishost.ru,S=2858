@@ -1,0 +1,64 @@
+From online@dorados.ru Mon Jul 06 23:12:46 2015
+Return-path: <online@dorados.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Mon, 06 Jul 2015 23:12:46 +0300
+Authentication-Results: dkim=pass, header.i=@dorados.ru
+Received: from forward24p.cmail.yandex.net ([77.88.31.51])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <online@dorados.ru>)
+	id 1ZCCkv-0003uk-PX
+	for ask@metodissimo.ru; Mon, 06 Jul 2015 23:12:46 +0300
+Received: from smtp19.mail.yandex.net (smtp19.mail.yandex.net [IPv6:2a02:6b8:0:1402::11a])
+	by forward24p.cmail.yandex.net (Yandex) with ESMTP id 5458380398
+	for <ask@metodissimo.ru>; Mon,  6 Jul 2015 23:12:41 +0300 (MSK)
+Received: from smtp19.mail.yandex.net (localhost [127.0.0.1])
+	by smtp19.mail.yandex.net (Yandex) with ESMTP id 2C3FBBE008A
+	for <ask@metodissimo.ru>; Mon,  6 Jul 2015 23:12:41 +0300 (MSK)
+Received: from unknown (unknown [2001:41d0:52:900::7b2])
+	by smtp19.mail.yandex.net (nwsmtp/Yandex) with ESMTPSA id DY8TTdzGyS-CeimblRg;
+	Mon,  6 Jul 2015 23:12:40 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dorados.ru; s=mail; t=1436213560;
+	bh=M3opsuAbtAkoYNpnfF+ksv1K/AHILQDuebZUypWiQ2w=;
+	h=Date:To:From:Subject:Message-ID:X-Priority:MIME-Version:
+	 Content-Type:Content-Transfer-Encoding;
+	b=yVW/4TMGGC9j5OxVFL23h3DgfAJH33ANleFU21FByzPw/fb5u6IBEUAGrj8PZxVft
+	 X7I/M8HOkhb/oBoxUJGVglXUbx+67/0eeIstWCjlmQpG8pSlvKXe6tX9vTqdPx3Fsc
+	 KiaPfc/rNza40ws++Ky7SCcBtJ8/JSp+TIMgWYec=
+Authentication-Results: smtp19.mail.yandex.net; dkim=pass header.i=@dorados.ru
+Date: Mon, 6 Jul 2015 23:22:14 +0300
+To: ask@metodissimo.ru
+From: "Dorados.RU" <online@dorados.ru>
+Subject: =?UTF-8?B?0JLQvtGB0YHRgtCw0L3QvtCy0LvQtdC90LjQtSDQv9Cw0YDQvtC70Y8g0L0=?=
+ =?UTF-8?B?0LAgRG9yYWRvcy5ydQ==?=
+Message-ID: <71246201a141abd32d99dcf766232a20@dorados.ru>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_71246201a141abd32d99dcf766232a20"
+Content-Transfer-Encoding: 8bit
+
+--b1_71246201a141abd32d99dcf766232a20
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Уважаемый Ольга!
+Для восстановления пароля, вам необходимо перейти по ссылке:
+http://dorados.ru/user/forgot?key=9ab3ed6083b02f4466e6&social=0
+
+
+--b1_71246201a141abd32d99dcf766232a20
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Уважаемый Ольга!<br />
+Для восстановления пароля, вам необходимо перейти по ссылке:<br />
+<a href="http://dorados.ru/user/forgot?key=9ab3ed6083b02f4466e6&social=0">http://dorados.ru/user/forgot?key=9ab3ed6083b02f4466e6&social=0</a>
+
+
+
+--b1_71246201a141abd32d99dcf766232a20--
+
+

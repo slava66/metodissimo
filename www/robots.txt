@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /fonts/
+Disallow: /xcode/
+Disallow: /?good
+Disallow: /?order
+Sitemap: http://metodissimo.ru/sitemap.xml
+
+User-Agent: Yandex
+Disallow: /fonts/
+Disallow: /xcode/
+Disallow: /?good
+Disallow: /?order
+Sitemap: http://metodissimo.ru/sitemap.xml
+Host: metodissimo.ru

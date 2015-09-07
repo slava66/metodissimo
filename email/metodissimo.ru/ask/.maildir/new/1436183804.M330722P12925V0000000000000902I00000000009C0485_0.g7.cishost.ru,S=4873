@@ -1,0 +1,75 @@
+From root@mail.ouuo.ru Mon Jul 06 14:56:44 2015
+Return-path: <root@mail.ouuo.ru>
+Envelope-to: ask@metodissimo.ru
+Delivery-date: Mon, 06 Jul 2015 14:56:44 +0300
+Received: from mail.ouuo.ru ([178.63.76.197])
+	by g7.cishost.ru with esmtps (TLS1.2:DHE_RSA_AES_256_CBC_SHA256:256)
+	(Exim 4.80)
+	(envelope-from <root@mail.ouuo.ru>)
+	id 1ZC50k-0003KW-0p
+	for ask@metodissimo.ru; Mon, 06 Jul 2015 14:56:43 +0300
+Received: by mail.ouuo.ru (Postfix, from userid 0)
+	id 031323A2E74; Mon,  6 Jul 2015 14:56:32 +0300 (MSK)
+To: =?koi8-r?B??= <ask@metodissimo.ru>
+Subject: =?koi8-r?B?4dDExcrUIPHOxMXL08EgMjAxNS0wNy0wNiE=?=
+X-PHP-Originating-Script: 500:config.php
+From: =?koi8-r?B?WFRPT0wuUlU=?= <admin@xtool.ru>
+Reply-To: admin@xtool.ru
+Content-type: text/html; charset="koi8-r"
+Message-Id: <20150706115633.031323A2E74@mail.ouuo.ru>
+Date: Mon,  6 Jul 2015 14:56:32 +0300 (MSK)
+X-Scanned-By: ClamAV 0.98.7; Mon, 06 Jul 2015 14:56:34 +0300
+X-Spam_score: 4.5
+X-Spam_score_int: 45
+X-Spam_bar: ++++
+X-Spam_report: Spam detection software, running on the system "g7.cishost.ru", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ the administrator of that system for details.
+ 
+ Content preview:  Здравствуйте! Мы рады сообщить вам об обновлении в нашем сервисе
+    Xtool.ru даты апдейта ПС ЯНДЕКС. Установлена новая дата: 2015-07-06 В сервисе
+    Linkonavt.ru вы можете создать задания на автоматическую чистку плохих и
+   покупку качественных ссылок в вашем аккаунте биржи ссылок Sape.ru. Для отбора
+    ссылок используются данные xtool.ru. Для пользователей сервиса xtool.ru никаких
+    дополнительных комисий нет. [...] 
+ 
+ Content analysis details:   (4.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.7 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: linkonavt.ru]
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.6 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+  2.0 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required MIME
+                             headers
+  0.1 FROM_EXCESS_BASE64     From: base64 encoded unnecessarily
+
+Здравствуйте!
+
+<br>
+Мы рады сообщить вам об обновлении в нашем сервисе <a href="http://xtool.ru" target="_blank">Xtool.ru</a> даты апдейта ПС ЯНДЕКС. <br> Установлена новая дата:  2015-07-06<br><br> 
+<div style="background: #FFEA99;border: 2px solid #ccc;padding: 10px;">
+В сервисе <a href="http://linkonavt.ru" target="_blank">Linkonavt.ru</a> вы можете создать задания на автоматическую чистку плохих и покупку качественных ссылок в вашем  аккаунте биржи ссылок Sape.ru. Для отбора ссылок используются данные xtool.ru. Для пользователей сервиса xtool.ru никаких дополнительных комисий нет.</div>
+<br><br>
+Данные вашего аккаунта:<br>
+Логин:<b>ask@metodissimo.ru</b><br>
+Доступно запросов:<b>10</b><br>
+Ссылка для привлечения партнёров: http://xtool.ru/a-49398
+<br><br>
+Вы можете заказать на нашем сервисе <a href="http://xtool.ru/seo-audit/" target="_blank">профессиональный seo аудит</a> вашего сайта.<br>
+Наши <a href="http://xtool.ru/informer.php" target="_blank">информеры XT</a> для размещения на сайтах.<br>
+В <a href="http://xtool.ru/blog/" target="_blank">блоге</a> xtool.ru публикуются новости и вы можете, авторизовавшись с тем же логином и паролем, создавать свои темы, задавать любые вопросы и публиковать свои идеи и предложения, участвовать в обсуждении сервиса и оставлять свои комментарии.
+<br><br>Очень выгодная партнёрская программа (20%) -  <a href="http://xtool.ru/partner.php" target="_blank">подробнее  ..</a><br><br>Плагин для Firefox с бесплатной многопоточной проверкой PR,Tic,YP,YL,LVL,ВС,GP,GL,GC,inY,inG,POS,MzR,AR,RLV(релевантность),R (регион сайта) и TrF(количество посещений) - <a href="http://xtool.ru/plugin.php" target="_blank">версия 4.8.13</a><br><br>
+<a href="http://xtool.ru/updates_informer.php">Информеры апдейтов Яндекса и Гугла</a>.<br>
+
+<br><br>С уважением, администратор сервиса<br><img src="http://xtool.ru/images/logo.png"><br><br>-------------------------------------------<br><font size=1><a href="http://xtool.ru/delp.php?idp=49398&key=efa817c63e9e7033ecb3119482f0d54a" target="_blank">Отписаться от рассылки об апдейтах</a></font>
+
