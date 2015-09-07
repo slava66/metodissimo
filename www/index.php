@@ -47,8 +47,9 @@ ga('send', 'pageview');
 <div class="hcont1">
 <span class="time1">с 8:00 до 22:00</span>
 <span class="tphone1"></span><a class="tel1" href="callto:+79858490607">+7(985)849-06-07</a>
-<a class="sms1" href="sms:+79858490607">Отправить смс</a>
-<div id="ikeycall1" class="keycall1">Обратный&nbsp;звонок!</div>
+<div class="topcont1"><span class="topaddr1">Зеленоград, корп.1013</span></div>
+<div class="topcont1"><a class="sms1" href="sms:+79858490607">Отправить смс</a></div>
+<div class="topcont1"><div id="ikeycall1" class="keycall1">Обратный&nbsp;звонок!</div></div>
 </div>
 </div>
 </div>
@@ -56,9 +57,10 @@ ga('send', 'pageview');
 <div id="ihead1">
 <div class="ghome1">
 <div class="bwtop1">
-<h1>УРОКИ АНГЛИЙСКОГО В&nbsp;ЗЕЛЕНОГРАДЕ!</h1>
+<h1>УРОКИ АНГЛИЙСКОГО В&nbsp;ЗЕЛЕНОГРАДЕ</h1>
 <div class="tline1"></div>
-<div class="title3">УВЛЕКАТЕЛЬНО И ЭФФЕКТИВНО!</div>
+<div class="title1">УВЛЕКАТЕЛЬНО И ЭФФЕКТИВНО!</div>
+<div class="title2">В мини-группах и индивидуально</div>
 </div>
 </div>
 <div class="ghome2">
